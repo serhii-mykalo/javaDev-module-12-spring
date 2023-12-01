@@ -9,7 +9,7 @@
 
 Не додавай до проєкту модулі Spring MVC, Spring Data та Spring Security. Ці модулі додамо пізніше.
 
-Для створення Spring Boot проєкту можна використати сайт Spring Boot Initializr - (https://start.spring.io/)
+Для створення Spring Boot проєкту можна використати сайт [Spring Boot Initializr](https://start.spring.io/)
 
 ## Завдання №2 - створити сутність Note
 Створи сутність `Note` - нотатка. В цій сутності мають бути наступні поля:
